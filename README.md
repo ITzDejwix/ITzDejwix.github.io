@@ -25,15 +25,15 @@
         <h2>Projects</h2>
         <div class="project">
             <h3>Project 1: Creating custom skripts for servers</h3>
-            <p>A set of custom commands to improve server management and player experience.</p>
+            <p>A set of custom commands to improve minecraft servers</p>
         </div>
         <div class="project">
             <h3>Project 2: ???</h3>
-            <p>Scripts to automate server events and mini-games for players.</p>
+            <p></p>
         </div>
         <div class="project">
             <h3>Project 3: ???</h3>
-            <p>A custom economy system with shops, trading, and currency management.</p>
+            <p></p></p>
         </div>
     </section>
     <section id="contact">
