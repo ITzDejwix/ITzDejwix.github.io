@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>ITzDejwix's Minecraft SkriptLang Dev</h1>
+        <h1>ITzDejwix</h1>
         <nav>
             <ul>
                 <li><a href="#about">About Me</a></li>
