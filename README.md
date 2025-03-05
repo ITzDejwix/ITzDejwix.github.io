@@ -24,15 +24,15 @@
     <section id="projects">
         <h2>Projects</h2>
         <div class="project">
-            <h3>Project 1: Windows in mc</h3>
+            <h3>Project 1: Creating custom skripts for servers</h3>
             <p>A set of custom commands to improve server management and player experience.</p>
         </div>
         <div class="project">
-            <h3>Project 2: Dripbox</h3>
+            <h3>Project 2: ???</h3>
             <p>Scripts to automate server events and mini-games for players.</p>
         </div>
         <div class="project">
-            <h3>Project 3: creating custom skripts for servers</h3>
+            <h3>Project 3: ???</h3>
             <p>A custom economy system with shops, trading, and currency management.</p>
         </div>
     </section>
@@ -40,7 +40,7 @@
         <h2>Contact</h2>
         <p>If you would like to collaborate or have any questions, feel free to reach out to me.</p>
         <ul>
-            <li>Email: <a href="mailto:itzdejwix@example.com">itzdejwix@example.com</a></li>
+            <li>Email: <a href="mailto:itzdejwix@gmail.com.com">itzdejwix@gmail.com.com</a></li>
             <li>GitHub: <a href="https://github.com/ITzDejwix" target="_blank">ITzDejwix</a></li>
         </ul>
     </section>
