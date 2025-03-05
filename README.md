@@ -38,7 +38,7 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>If you would like to collaborate or have any questions, feel free to reach out to me.</p>
+        <p>If you have a question just contact me</p>
         <ul>
             <li>Email: <a href="mailto:itzdejwix@gmail.com.com">itzdejwix@gmail.com.com</a></li>
             <li>GitHub: <a href="https://github.com/ITzDejwix" target="_blank">ITzDejwix</a></li>
