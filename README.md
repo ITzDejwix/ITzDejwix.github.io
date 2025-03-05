@@ -33,7 +33,7 @@
         </div>
         <div class="project">
             <h3>Project 3: ???</h3>
-            <p></p></p>
+            <p></p>
         </div>
     </section>
     <section id="contact">
