@@ -19,7 +19,7 @@
     </header>
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I am ITzDejwix, a Minecraft SkriptLang developer. I create custom scripts for Minecraft servers to enhance gameplay and add unique features.</p>
+        <p>Hello! I am ITzDejwix, a Minecraft SkriptLang developer. </p>
     </section>
     <section id="projects">
         <h2>Projects</h2>
