@@ -40,7 +40,7 @@
         <h2>Contact</h2>
         <p>If you have a question just contact me</p>
         <ul>
-            <li>Email: <a href="mailto:itzdejwix@gmail.com.com">itzdejwix@gmail.com.com</a></li>
+            <li>Email: <a href="mailto:itzdejwix@gmail.com">itzdejwix@gmail.com</a></li>
             <li>GitHub: <a href="https://github.com/ITzDejwix" target="_blank">ITzDejwix</a></li>
         </ul>
     </section>
